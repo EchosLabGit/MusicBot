@@ -1,0 +1,23 @@
+{
+  "name": "custom-musicbot",
+  "version": "1.0.1",
+  "description": "This is a discord bot that can play youtube audio / music",
+  "main": "main.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "env": "0.0.2",
+    "eve": "^0.5.4",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "0.0.1-security",
+    "yt-search": "^2.9.0",
+    "ytdl-core": "^4.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EchosLab",
+  "license": "ISC"
+}
